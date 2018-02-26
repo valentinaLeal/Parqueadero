@@ -5,6 +5,8 @@
  */
 package parqueadero;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Estudiantes
@@ -137,7 +139,7 @@ misMotos [i]=new Moto ();
         miMoto.año=Integer.parseInt(textoaño.getText());
         miMoto.modelo=textomodelo.getText();
         
-    //JOptionPane.showMessageDialog (this,"HOLA");    
+    JOptionPane.showMessageDialog (null,"HOLA");    
         
     }//GEN-LAST:event_jButton1MouseClicked
 
