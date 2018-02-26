@@ -15,8 +15,7 @@ public class Parqueadero {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        FichaVehiculo miFicha= new FichaVehiculo();
-       miFicha.setVisible(true);
+        // TODO code application logic here
     }
     
 }

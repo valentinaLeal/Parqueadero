@@ -3,26 +3,26 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Vehiculo;
+package parqueadero;
 
 /**
  *
  * @author Estudiantes
  */
 public class Vehiculo {
- 
-    public String marca;
-     public int cilindraje;
-     public String modelo;
-     public int año;
-     
-     void acelerar () {
     
+    String marca;
+    int cilindraje;
+    String modelo;
+    int año;
     
-}
-     void frenar (){
-         
-         
-     }
-     
+    void acelerar (){
+        
+    }
+    
+    void frenar (){
+        
+        
+    }
+    
 }
